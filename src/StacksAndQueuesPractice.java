@@ -78,7 +78,7 @@ public class StacksAndQueuesPractice {
         while (!q.isEmpty()) {
             String value = q.pop();
             temp.add(value);
-            temp2.push(value)
+            temp2.push(value);
         }
 
     }
